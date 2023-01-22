@@ -1,17 +1,20 @@
 # FreeWay Game
 
-Rápida descrição do objetivo de fazer esse projeto
+Clássico jogo de computador construído com JavaScript
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **FreeWay Game**
+| :label: Tecnologias | java
+| :rocket: URL         | [https://url-deploy.com.br](https://cursos.alura.com.br/course/javascript-listas-lacos)
+| :fire: Desafio     | [https://url-do-desafio.com.br](https://cursos.alura.com.br/course/javascript-listas-lacos)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![FreeWay](https://user-images.githubusercontent.com/123328967/213943336-a64f9fc8-c06c-4170-a147-2b86199a560e.png#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Clássico jogo de computador construído com JavaScript no P5.
+
+
+[FreeWay Game - JS.zip](https://github.com/Gbarao/FreeWay---ClassicGame/files/10475650/FreeWay.Game.-.JS.zip)
